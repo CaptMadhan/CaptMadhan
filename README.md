@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Android Studio**
 
+- 😍 I need some help [here](https://github.com/CaptMadhan/Jai-kisan-farmers-networking-app/issues)
+
 - 📫 How to reach me? Mail me at **madhanmandy3374@gmail.com**
 
 <h3 align="center">Connect with me:</h3>

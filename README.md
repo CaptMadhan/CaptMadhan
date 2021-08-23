@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captmadhan&label=Profile%20views&color=0e75b6&style=flat" alt="captmadhan" /> </p>
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="140rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 - 🔭 I’m currently working on [Jai-Kisan App](https://github.com/CaptMadhan/Jai-kisan-farmers-networking-app)
 
@@ -11,9 +11,7 @@
 - 😍 I need some help [here](https://github.com/CaptMadhan/Jai-kisan-farmers-networking-app/issues)
 
 - 📫 How to reach me? Mail me at **madhanmandy3374@gmail.com**
-
-
-
+ 
 <p align="center"><img src="https://github.com/CaptMadhan/CaptMadhan/blob/main/Madhan%20Mandy%20-%20Announcement%20tile-ambassador.png" alt="Prisma Ambassador" width="500" /></p>
 
 <h3 align="center">Connect with me:</h3>

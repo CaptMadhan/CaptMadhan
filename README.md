@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captmadhan&label=Profile%20views&color=0e75b6&style=flat" alt="captmadhan" /> </p>
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 - 🔭 I’m currently working on [Jai-Kisan App](https://github.com/CaptMadhan/Jai-kisan-farmers-networking-app)
 
